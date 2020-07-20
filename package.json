@@ -1,0 +1,16 @@
+{
+  "name": "readme.md",
+  "version": "1.0.0",
+  "description": "Github Readme.md generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "html",
+    "readme.md"
+  ],
+  "author": "Shaikh Ahmed Reza",
+  "license": "ISC"
+}
